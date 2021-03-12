@@ -23,7 +23,7 @@ app.use(
 if (!db.has('notice')) db.set('notice', '테스트 공지');
 
 app.get('/', (req, res) =>
-  res.render('index', { title: 'Endint Short', notice: db.get('notice') })
+  res.render('index', { title: 'int Short', notice: db.get('notice') })
 );
 
 app.get('/admin', (req, res) => {
