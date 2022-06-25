@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "express-react-views": "^0.11.0",
     "express-tsx-views": "^1.2.2",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-sass-middleware": "^0.11.0",
     "quick.db": "^7.1.2",
     "react": "^16.13.1",
