@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/node-sass-middleware": "^0.0.31",
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-react-views": "^0.11.0",
     "express-tsx-views": "^1.2.2",
     "node-fetch": "^2.6.1",
